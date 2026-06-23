@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "prod_001",
+    "slug": "sony-wh-1000xm6",
+    "name": "Sony WH-1000XM6",
+    "shortName": "Sony XM6 Headphones",
+    "description": "Industry-leading noise cancelling headphones with exceptional sound quality, 30-hour battery life, and multipoint connection. The XM6 redefines what wireless audio can be, with adaptive sound control that automatically adjusts to your environment.",
+    "features": ["30hr battery", "LDAC Hi-Res Audio", "Multipoint Connection", "Speak-to-Chat", "Quick Charge"],
+    "price": 349.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["best-sellers", "premium-picks"],
+    "stock": 28,
+    "rating": 4.8,
+    "reviewsCount": 2847,
+    "tags": ["wireless", "audio", "noise-cancelling", "headphones"],
+    "variants": {
+      "colors": [
+        { "name": "Midnight Black", "value": "#1a1a1a" },
+        { "name": "Platinum Silver", "value": "#c0c0c0" },
+        { "name": "Indigo Blue", "value": "#4b5563" }
+      ],
+      "sizes": []
+    },
+    "badge": "Best Seller",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Sony",
+    "sku": "SN-WH1000XM6-BLK"
+  },
+  {
+    "id": "prod_002",
+    "slug": "apple-airpods-pro-3",
+    "name": "Apple AirPods Pro 3",
+    "shortName": "AirPods Pro 3",
+    "description": "Next-generation active noise cancellation with Adaptive Audio, a perfect in-ear fit, and seamless Apple device integration. The new H2 chip enables incredible sound and immersive Spatial Audio with dynamic head tracking.",
+    "features": ["Active Noise Cancellation", "Transparency Mode", "Spatial Audio", "6hr Battery", "MagSafe Charging"],
+    "price": 299.99,
+    "salePrice": 249.99,
+    "images": [
+      "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?w=800&q=80",
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["new-arrivals", "trending"],
+    "stock": 54,
+    "rating": 4.9,
+    "reviewsCount": 5123,
+    "tags": ["wireless", "earbuds", "apple", "anc"],
+    "variants": {
+      "colors": [
+        { "name": "White", "value": "#ffffff" },
+        { "name": "Space Black", "value": "#2d2d2d" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": true,
+    "isFeatured": true,
+    "brand": "Apple",
+    "sku": "AP-APP3-WHT"
+  },
+  {
+    "id": "prod_003",
+    "slug": "samsung-galaxy-watch-7",
+    "name": "Samsung Galaxy Watch 7",
+    "shortName": "Galaxy Watch 7",
+    "description": "Track your health in unprecedented detail with Galaxy AI-powered insights. Advanced sleep coaching, irregular heart rhythm detection, and a stunning AMOLED display make this the ultimate health companion.",
+    "features": ["Galaxy AI Health", "BioActive Sensor", "5-day Battery", "Water Resistant 5ATM", "Wear OS"],
+    "price": 299.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["new-arrivals", "best-sellers"],
+    "stock": 36,
+    "rating": 4.6,
+    "reviewsCount": 1892,
+    "tags": ["smartwatch", "samsung", "fitness", "health"],
+    "variants": {
+      "colors": [
+        { "name": "Graphite", "value": "#374151" },
+        { "name": "Gold", "value": "#d4a017" },
+        { "name": "Cream", "value": "#f5f0e8" }
+      ],
+      "sizes": ["40mm", "44mm"]
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": false,
+    "brand": "Samsung",
+    "sku": "SG-GW7-44-GRA"
+  },
+  {
+    "id": "prod_004",
+    "slug": "logitech-mx-master-4",
+    "name": "Logitech MX Master 4",
+    "shortName": "MX Master 4 Mouse",
+    "description": "The ultimate mouse for creators and power users. Electromagnetic scrolling, precision tracking on any surface, and multi-device connectivity make this the definitive productivity tool.",
+    "features": ["MagSpeed Scroll", "8K DPI", "Multi-device", "USB-C", "70-day Battery"],
+    "price": 99.99,
+    "salePrice": 79.99,
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["sale", "trending"],
+    "stock": 89,
+    "rating": 4.7,
+    "reviewsCount": 3421,
+    "tags": ["mouse", "logitech", "productivity", "wireless"],
+    "variants": {
+      "colors": [
+        { "name": "Graphite", "value": "#374151" },
+        { "name": "Pale Gray", "value": "#9ca3af" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Logitech",
+    "sku": "LG-MXM4-GRA"
+  },
+  {
+    "id": "prod_005",
+    "slug": "ipad-pro-m4",
+    "name": "iPad Pro M4 13-inch",
+    "shortName": "iPad Pro M4",
+    "description": "Impossibly thin, impossibly capable. The M4 chip delivers laptop-class performance in the thinnest iPad ever. Ultra Retina XDR OLED display with ProMotion makes everything look stunning.",
+    "features": ["M4 Chip", "OLED ProMotion", "Apple Pencil Pro", "Thunderbolt 4", "Ultra-thin 5.1mm"],
+    "price": 1299.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&q=80",
+      "https://images.unsplash.com/photo-1622532456879-22e9cb7b1756?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["premium-picks", "new-arrivals"],
+    "stock": 15,
+    "rating": 4.9,
+    "reviewsCount": 876,
+    "tags": ["tablet", "apple", "ipad", "pro"],
+    "variants": {
+      "colors": [
+        { "name": "Space Black", "value": "#1a1a1a" },
+        { "name": "Silver", "value": "#d1d5db" }
+      ],
+      "sizes": ["256GB", "512GB", "1TB", "2TB"]
+    },
+    "badge": "Premium",
+    "isNew": true,
+    "isFeatured": true,
+    "brand": "Apple",
+    "sku": "AP-IPPM4-13-256-BLK"
+  },
+  {
+    "id": "prod_006",
+    "slug": "bose-soundbar-900",
+    "name": "Bose Soundbar 900",
+    "shortName": "Bose Soundbar 900",
+    "description": "Dolby Atmos soundbar with TrueSpace processing creates a spectacular 3D sound field. PhaseGuide technology sends distinct audio beams around your room for an immersive cinema experience.",
+    "features": ["Dolby Atmos", "TrueSpace", "HDMI eARC", "Wi-Fi & Bluetooth", "ADAPTiQ Audio"],
+    "price": 899.99,
+    "salePrice": 699.99,
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["sale", "premium-picks"],
+    "stock": 12,
+    "rating": 4.7,
+    "reviewsCount": 654,
+    "tags": ["soundbar", "bose", "dolby-atmos", "audio"],
+    "variants": {
+      "colors": [
+        { "name": "Black", "value": "#1a1a1a" },
+        { "name": "White", "value": "#f9fafb" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Bose",
+    "sku": "BS-SB900-BLK"
+  },
+  {
+    "id": "prod_007",
+    "slug": "dell-xps-15-2025",
+    "name": "Dell XPS 15 2025",
+    "shortName": "Dell XPS 15",
+    "description": "The XPS 15 sets a new standard for premium laptops with its InfinityEdge OLED display, Intel Core Ultra 9 processor, and stunning CNC aluminum chassis. Performance and portability in perfect harmony.",
+    "features": ["Intel Core Ultra 9", "32GB RAM", "1TB SSD", "OLED Touch Display", "NVIDIA RTX 4070"],
+    "price": 2499.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=80",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["premium-picks"],
+    "stock": 8,
+    "rating": 4.6,
+    "reviewsCount": 432,
+    "tags": ["laptop", "dell", "xps", "premium"],
+    "variants": {
+      "colors": [
+        { "name": "Platinum Silver", "value": "#d1d5db" }
+      ],
+      "sizes": ["Intel Core Ultra 7 / 16GB", "Intel Core Ultra 9 / 32GB", "Intel Core Ultra 9 / 64GB"]
+    },
+    "badge": "Premium",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Dell",
+    "sku": "DL-XPS15-U9-32-1TB"
+  },
+  {
+    "id": "prod_008",
+    "slug": "anker-usb-c-hub",
+    "name": "Anker 12-in-1 USB-C Hub",
+    "shortName": "Anker USB-C Hub",
+    "description": "Transform your setup with 12 essential ports including 4K HDMI, 10Gbps USB-A, 100W Power Delivery, and SD card slots. The ideal connectivity hub for professionals.",
+    "features": ["4K HDMI", "10Gbps USB-A", "100W PD", "SD/microSD", "RJ45 Ethernet"],
+    "price": 59.99,
+    "salePrice": 44.99,
+    "images": [
+      "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["sale", "best-sellers"],
+    "stock": 124,
+    "rating": 4.5,
+    "reviewsCount": 2156,
+    "tags": ["hub", "usb-c", "anker", "accessories"],
+    "variants": {
+      "colors": [
+        { "name": "Space Gray", "value": "#6b7280" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Anker",
+    "sku": "AK-USBC-12IN1"
+  },
+  {
+    "id": "prod_009",
+    "slug": "canon-eos-r8",
+    "name": "Canon EOS R8 Camera",
+    "shortName": "Canon EOS R8",
+    "description": "Full-frame mirrorless photography made accessible. The EOS R8 features a 24.2MP sensor, Dual Pixel CMOS AF II, and 4K video at an unprecedented entry-level price point for Canon's RF system.",
+    "features": ["24.2MP Full-Frame", "4K 60fps", "Dual Pixel CMOS AF II", "In-body Stabilization", "RF Mount"],
+    "price": 1499.99,
+    "salePrice": 1299.99,
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["sale", "trending"],
+    "stock": 19,
+    "rating": 4.7,
+    "reviewsCount": 892,
+    "tags": ["camera", "canon", "mirrorless", "photography"],
+    "variants": {
+      "colors": [
+        { "name": "Black", "value": "#1a1a1a" }
+      ],
+      "sizes": ["Body Only", "24-50mm Kit", "24-105mm Kit"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Canon",
+    "sku": "CN-EOSR8-BODY"
+  },
+  {
+    "id": "prod_010",
+    "slug": "lg-ultragear-27",
+    "name": "LG UltraGear 27\" 4K OLED",
+    "shortName": "LG UltraGear OLED",
+    "description": "Experience gaming in a new dimension with the world's first 4K OLED gaming monitor. 240Hz refresh rate, 0.03ms response time, and VESA DisplayHDR True Black 400 certification deliver unmatched visual clarity.",
+    "features": ["4K OLED 240Hz", "0.03ms Response", "HDR True Black 400", "G-Sync Compatible", "USB-C 96W"],
+    "price": 1299.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a573d5f5ea?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["premium-picks", "new-arrivals"],
+    "stock": 21,
+    "rating": 4.8,
+    "reviewsCount": 567,
+    "tags": ["monitor", "oled", "gaming", "lg"],
+    "variants": {
+      "colors": [
+        { "name": "Matte Black", "value": "#111111" }
+      ],
+      "sizes": []
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": false,
+    "brand": "LG",
+    "sku": "LG-27GR95QE"
+  },
+  {
+    "id": "prod_011",
+    "slug": "dyson-v15-vacuum",
+    "name": "Dyson V15 Detect",
+    "shortName": "Dyson V15 Detect",
+    "description": "Reveals and removes microscopic dust with a green laser. The piezo sensor detects and counts particles, automatically adapting suction to scientifically prove a deep clean.",
+    "features": ["Laser Dust Detection", "Piezo Sensor", "60min Run Time", "HEPA Filtration", "LCD Display"],
+    "price": 749.99,
+    "salePrice": 649.99,
+    "images": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["sale", "best-sellers"],
+    "stock": 34,
+    "rating": 4.6,
+    "reviewsCount": 1234,
+    "tags": ["vacuum", "dyson", "cordless", "cleaning"],
+    "variants": {
+      "colors": [
+        { "name": "Nickel/Yellow", "value": "#fbbf24" },
+        { "name": "Absolute Extra", "value": "#6b7280" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Dyson",
+    "sku": "DY-V15-DET-YEL"
+  },
+  {
+    "id": "prod_012",
+    "slug": "nintendo-switch-2",
+    "name": "Nintendo Switch 2",
+    "shortName": "Nintendo Switch 2",
+    "description": "The next generation of Nintendo gaming is here. Play at home on a stunning 8-inch LCD display or on the go with the same iconic hybrid design. New GameChat feature and expanded accessories.",
+    "features": ["8-inch Display", "4K TV Mode", "GameChat", "Magnetic Joy-Con", "USB-C 45W"],
+    "price": 449.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["new-arrivals", "trending"],
+    "stock": 42,
+    "rating": 4.8,
+    "reviewsCount": 3892,
+    "tags": ["gaming", "nintendo", "console", "switch"],
+    "variants": {
+      "colors": [
+        { "name": "Standard", "value": "#dc2626" },
+        { "name": "Special Edition", "value": "#7c3aed" }
+      ],
+      "sizes": []
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": true,
+    "brand": "Nintendo",
+    "sku": "NT-NSW2-STD"
+  },
+  {
+    "id": "prod_013",
+    "slug": "jabra-evolve2-85",
+    "name": "Jabra Evolve2 85",
+    "shortName": "Jabra Evolve2 85",
+    "description": "Professional wireless headset engineered for focus. Superior call quality with 8-mic technology and industry-leading noise cancellation make every meeting crystal clear.",
+    "features": ["8-Mic ANC", "37hr Battery", "Microsoft Teams Certified", "Wireless Charging", "Busy Light"],
+    "price": 499.99,
+    "salePrice": 399.99,
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["sale"],
+    "stock": 28,
+    "rating": 4.5,
+    "reviewsCount": 748,
+    "tags": ["headset", "jabra", "business", "wireless"],
+    "variants": {
+      "colors": [
+        { "name": "Black", "value": "#1a1a1a" },
+        { "name": "Beige", "value": "#d6c7a8" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Jabra",
+    "sku": "JB-EV285-BLK"
+  },
+  {
+    "id": "prod_014",
+    "slug": "samsung-galaxy-s25-ultra",
+    "name": "Samsung Galaxy S25 Ultra",
+    "shortName": "Galaxy S25 Ultra",
+    "description": "The ultimate AI smartphone. Galaxy AI transforms the way you communicate, create, and connect. Titanium frame, ProVisual Engine camera system, and integrated S Pen define a new era.",
+    "features": ["Galaxy AI", "200MP Camera", "S Pen Integrated", "Snapdragon 8 Elite", "5000mAh Battery"],
+    "price": 1299.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80"
+    ],
+    "category": "electronics",
+    "collection": ["new-arrivals", "premium-picks"],
+    "stock": 61,
+    "rating": 4.7,
+    "reviewsCount": 4821,
+    "tags": ["smartphone", "samsung", "galaxy", "flagship"],
+    "variants": {
+      "colors": [
+        { "name": "Titanium Black", "value": "#2d3748" },
+        { "name": "Titanium Gray", "value": "#718096" },
+        { "name": "Titanium Blue", "value": "#3b82f6" },
+        { "name": "Titanium Silver Blue", "value": "#94a3b8" }
+      ],
+      "sizes": ["256GB", "512GB", "1TB"]
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": true,
+    "brand": "Samsung",
+    "sku": "SG-GS25U-256-BLK"
+  },
+  {
+    "id": "prod_015",
+    "slug": "premium-wool-overcoat",
+    "name": "Premium Merino Wool Overcoat",
+    "shortName": "Merino Overcoat",
+    "description": "Crafted from 100% Merino wool sourced from New Zealand's finest farms. This timeless overcoat features a slim silhouette, notched lapels, and interior pockets — the quintessential winter essential.",
+    "features": ["100% Merino Wool", "Fully Lined", "Interior Pockets", "Dry Clean Only", "Ethically Sourced"],
+    "price": 449.99,
+    "salePrice": 349.99,
+    "images": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800&q=80",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["sale", "best-sellers"],
+    "stock": 34,
+    "rating": 4.8,
+    "reviewsCount": 892,
+    "tags": ["coat", "wool", "winter", "premium"],
+    "variants": {
+      "colors": [
+        { "name": "Camel", "value": "#c19a6b" },
+        { "name": "Charcoal", "value": "#374151" },
+        { "name": "Cream", "value": "#fef9ee" },
+        { "name": "Midnight Navy", "value": "#1e3a5f" }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Nexus Atelier",
+    "sku": "NA-MERWOOL-OVR-CAM-M"
+  },
+  {
+    "id": "prod_016",
+    "slug": "minimalist-leather-sneakers",
+    "name": "Minimalist Leather Sneakers",
+    "shortName": "Leather Sneakers",
+    "description": "Clean lines, premium Italian full-grain leather, and hand-stitched details define these minimalist sneakers. The cushioned insole and rubber outsole ensure all-day comfort without compromising style.",
+    "features": ["Full-Grain Italian Leather", "Cushioned Insole", "Rubber Outsole", "Hand-Stitched", "Unisex Fit"],
+    "price": 189.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["best-sellers", "trending"],
+    "stock": 67,
+    "rating": 4.7,
+    "reviewsCount": 1543,
+    "tags": ["sneakers", "leather", "minimalist", "footwear"],
+    "variants": {
+      "colors": [
+        { "name": "White", "value": "#f9fafb" },
+        { "name": "Black", "value": "#111111" },
+        { "name": "Tan", "value": "#c19a6b" }
+      ],
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10", "UK 11", "UK 12"]
+    },
+    "badge": "Best Seller",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Nexus Atelier",
+    "sku": "NA-LEATH-SNK-WHT-42"
+  },
+  {
+    "id": "prod_017",
+    "slug": "cashmere-turtleneck",
+    "name": "100% Cashmere Turtleneck",
+    "shortName": "Cashmere Turtleneck",
+    "description": "Luxuriously soft Grade A Mongolian cashmere in a flattering turtleneck silhouette. This versatile essential transitions seamlessly from workday to evening — a true wardrobe investment.",
+    "features": ["Grade A Mongolian Cashmere", "12-gauge knit", "Ribbed Cuffs & Hem", "Machine Washable", "GOTS Certified"],
+    "price": 299.99,
+    "salePrice": 239.99,
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["sale", "premium-picks"],
+    "stock": 45,
+    "rating": 4.9,
+    "reviewsCount": 677,
+    "tags": ["cashmere", "knitwear", "luxury", "sweater"],
+    "variants": {
+      "colors": [
+        { "name": "Oatmeal", "value": "#d4b896" },
+        { "name": "Slate Blue", "value": "#64748b" },
+        { "name": "Forest Green", "value": "#166534" },
+        { "name": "Burgundy", "value": "#7f1d1d" }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Atelier",
+    "sku": "NA-CSHM-TN-OAT-S"
+  },
+  {
+    "id": "prod_018",
+    "slug": "structured-leather-bag",
+    "name": "Structured Leather Tote",
+    "shortName": "Leather Tote",
+    "description": "Hand-assembled from full-grain vegetable-tanned leather, this structured tote ages beautifully. Spacious enough for a 15\" laptop, with a magnetic clasp and gold hardware.",
+    "features": ["Full-Grain Vegetable-Tanned Leather", "15\" Laptop Fits", "Gold Hardware", "Interior Zip Pocket", "Removable Strap"],
+    "price": 359.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["premium-picks", "best-sellers"],
+    "stock": 28,
+    "rating": 4.8,
+    "reviewsCount": 423,
+    "tags": ["bag", "leather", "tote", "premium"],
+    "variants": {
+      "colors": [
+        { "name": "Tan", "value": "#c19a6b" },
+        { "name": "Black", "value": "#111111" },
+        { "name": "Cognac", "value": "#8b5a2b" }
+      ],
+      "sizes": []
+    },
+    "badge": "Premium",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Nexus Atelier",
+    "sku": "NA-STRUCT-TOTE-TAN"
+  },
+  {
+    "id": "prod_019",
+    "slug": "japanese-denim-jacket",
+    "name": "Japanese Selvedge Denim Jacket",
+    "shortName": "Selvedge Denim Jacket",
+    "description": "Woven on vintage shuttle looms in Kojima, Japan, this 14.5oz selvedge denim jacket develops an incredible patina over time. A classic that gets better with every wear.",
+    "features": ["14.5oz Selvedge Denim", "Copper Rivets", "Blanket-Lined", "Made in Japan", "YKK Zippers"],
+    "price": 279.99,
+    "salePrice": 219.99,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["sale", "trending"],
+    "stock": 19,
+    "rating": 4.9,
+    "reviewsCount": 312,
+    "tags": ["denim", "jacket", "japanese", "selvedge"],
+    "variants": {
+      "colors": [
+        { "name": "Raw Indigo", "value": "#3b4ea5" },
+        { "name": "Black Wash", "value": "#2d2d2d" }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Atelier",
+    "sku": "NA-SELV-DJ-IND-M"
+  },
+  {
+    "id": "prod_020",
+    "slug": "silk-midi-dress",
+    "name": "100% Silk Midi Dress",
+    "shortName": "Silk Midi Dress",
+    "description": "Effortlessly elegant in pure mulberry silk charmeuse. The fluid drape and subtle sheen make this midi dress a versatile piece for both day and evening occasions.",
+    "features": ["100% Mulberry Silk", "Adjustable Straps", "Side Slit", "Dry Clean Only", "Ethical Silk"],
+    "price": 399.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["new-arrivals", "premium-picks"],
+    "stock": 23,
+    "rating": 4.7,
+    "reviewsCount": 234,
+    "tags": ["dress", "silk", "midi", "elegant"],
+    "variants": {
+      "colors": [
+        { "name": "Champagne", "value": "#f0d9b5" },
+        { "name": "Midnight Blue", "value": "#1e3a5f" },
+        { "name": "Sage", "value": "#8fad88" },
+        { "name": "Blush", "value": "#f4a0a0" }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": false,
+    "brand": "Nexus Atelier",
+    "sku": "NA-SILK-MIDI-CHAMP-S"
+  },
+  {
+    "id": "prod_021",
+    "slug": "linen-wide-trousers",
+    "name": "Relaxed Linen Wide-Leg Trousers",
+    "shortName": "Linen Trousers",
+    "description": "Stone-washed Belgian linen in a generous wide-leg silhouette. The elasticated back waist and side pockets make these equally suited to the office or weekend away.",
+    "features": ["100% Belgian Linen", "Elasticated Waist", "Deep Side Pockets", "Stone Washed", "Unlined"],
+    "price": 149.99,
+    "salePrice": 119.99,
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["sale", "new-arrivals"],
+    "stock": 52,
+    "rating": 4.6,
+    "reviewsCount": 456,
+    "tags": ["trousers", "linen", "wide-leg", "summer"],
+    "variants": {
+      "colors": [
+        { "name": "Natural", "value": "#d4c5a9" },
+        { "name": "Black", "value": "#111111" },
+        { "name": "Ecru", "value": "#fdf6e3" }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Atelier",
+    "sku": "NA-LIN-WLT-NAT-M"
+  },
+  {
+    "id": "prod_022",
+    "slug": "merino-wool-socks-set",
+    "name": "Merino Wool Socks — 5 Pack",
+    "shortName": "Merino Wool Socks",
+    "description": "Premium mid-weight Merino wool socks in five complementary colors. Temperature regulating, moisture wicking, and incredibly soft — the foundation of a great outfit.",
+    "features": ["80% Merino Wool", "Reinforced Toe & Heel", "Temperature Regulating", "Anti-blister", "Machine Washable"],
+    "price": 79.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=800&q=80"
+    ],
+    "category": "fashion",
+    "collection": ["gift-ideas", "best-sellers"],
+    "stock": 198,
+    "rating": 4.8,
+    "reviewsCount": 2341,
+    "tags": ["socks", "merino", "accessories", "gift"],
+    "variants": {
+      "colors": [],
+      "sizes": ["S/M (UK 3-6)", "M/L (UK 7-10)", "L/XL (UK 11-13)"]
+    },
+    "badge": "Best Seller",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Atelier",
+    "sku": "NA-MRSCK-5PK-ML"
+  },
+  {
+    "id": "prod_023",
+    "slug": "atomic-habits",
+    "name": "Atomic Habits",
+    "shortName": "Atomic Habits",
+    "description": "No. 1 New York Times bestseller. James Clear's groundbreaking guide to building good habits and breaking bad ones. Over 15 million copies sold worldwide — now in a special hardcover collector's edition.",
+    "features": ["Hardcover Collector's Edition", "384 Pages", "Full Color Illustrations", "Bonus Chapter", "Reading Guide"],
+    "price": 34.99,
+    "salePrice": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["sale", "best-sellers"],
+    "stock": 234,
+    "rating": 4.9,
+    "reviewsCount": 18921,
+    "tags": ["self-help", "habits", "productivity", "bestseller"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Hardcover", "Paperback", "eBook"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Avery Publishing",
+    "sku": "BK-ATOMHB-HC"
+  },
+  {
+    "id": "prod_024",
+    "slug": "thinking-fast-and-slow",
+    "name": "Thinking, Fast and Slow",
+    "shortName": "Thinking Fast & Slow",
+    "description": "Daniel Kahneman's landmark work on how we think. A profound examination of the two systems that drive the way we think — and how we can understand, harness, and navigate them.",
+    "features": ["Paperback Special Edition", "512 Pages", "Author Annotations", "Discussion Guide", "Nobel Laureate Author"],
+    "price": 24.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["best-sellers"],
+    "stock": 189,
+    "rating": 4.8,
+    "reviewsCount": 12453,
+    "tags": ["psychology", "neuroscience", "decision-making", "bestseller"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Hardcover", "Paperback", "eBook"]
+    },
+    "badge": "Best Seller",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Farrar, Straus and Giroux",
+    "sku": "BK-THINKFS-PB"
+  },
+  {
+    "id": "prod_025",
+    "slug": "design-of-everyday-things",
+    "name": "The Design of Everyday Things",
+    "shortName": "Design of Everyday Things",
+    "description": "Don Norman's classic, revised edition. The ultimate guide to human-centered design, applicable to everything from apps to doorknobs. Essential reading for designers, engineers, and thinkers.",
+    "features": ["Revised & Expanded Edition", "368 Pages", "New Case Studies", "Full Color", "Industry Standard Text"],
+    "price": 29.99,
+    "salePrice": 22.99,
+    "images": [
+      "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["sale", "trending"],
+    "stock": 145,
+    "rating": 4.7,
+    "reviewsCount": 8765,
+    "tags": ["design", "ux", "human-centered", "classic"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Hardcover", "Paperback"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Basic Books",
+    "sku": "BK-DOET-PB"
+  },
+  {
+    "id": "prod_026",
+    "slug": "zero-to-one",
+    "name": "Zero to One",
+    "shortName": "Zero to One",
+    "description": "Peter Thiel's contrarian guide to building the future. Notes on startups that challenge conventional thinking and offer a radically different perspective on how to create innovative companies.",
+    "features": ["Hardcover Edition", "240 Pages", "Foreword by Blake Masters", "Updated Stats", "Discussion Questions"],
+    "price": 27.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["best-sellers", "gift-ideas"],
+    "stock": 167,
+    "rating": 4.6,
+    "reviewsCount": 9234,
+    "tags": ["startups", "entrepreneurship", "tech", "business"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Hardcover", "Paperback", "eBook", "Audiobook"]
+    },
+    "badge": "Best Seller",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Crown Business",
+    "sku": "BK-ZEROONE-HC"
+  },
+  {
+    "id": "prod_027",
+    "slug": "the-lean-startup",
+    "name": "The Lean Startup",
+    "shortName": "The Lean Startup",
+    "description": "Eric Ries' methodology for developing businesses and products that aims to shorten product development cycles. The most influential startup book of the last decade, used by thousands of companies.",
+    "features": ["Revised Edition", "336 Pages", "New Case Studies", "Updated Research", "Foreword by Steve Blank"],
+    "price": 26.99,
+    "salePrice": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["sale"],
+    "stock": 213,
+    "rating": 4.5,
+    "reviewsCount": 15234,
+    "tags": ["startup", "agile", "business", "entrepreneurship"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Hardcover", "Paperback", "eBook"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Currency",
+    "sku": "BK-LEANSTRT-PB"
+  },
+  {
+    "id": "prod_028",
+    "slug": "sapiens-illustrated",
+    "name": "Sapiens: Illustrated Edition",
+    "shortName": "Sapiens Illustrated",
+    "description": "Yuval Noah Harari's globally acclaimed history of humankind, now in a stunning large-format illustrated edition with over 100 specially commissioned artworks.",
+    "features": ["Large Format", "512 Pages", "100+ Original Artworks", "Timeline Foldout", "Collector's Item"],
+    "price": 59.99,
+    "salePrice": 44.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["sale", "gift-ideas"],
+    "stock": 78,
+    "rating": 4.9,
+    "reviewsCount": 7432,
+    "tags": ["history", "anthropology", "illustrated", "gift"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Illustrated HC", "Standard Paperback", "eBook"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Harper Perennial",
+    "sku": "BK-SAPIENS-ILLHC"
+  },
+  {
+    "id": "prod_029",
+    "slug": "deep-work",
+    "name": "Deep Work: Rules for Focused Success",
+    "shortName": "Deep Work",
+    "description": "Cal Newport's compelling argument that deep work — the ability to focus without distraction — is both increasingly rare and increasingly valuable in our hyper-connected economy.",
+    "features": ["Paperback", "304 Pages", "Practical Frameworks", "Case Studies", "Action Plan"],
+    "price": 22.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["new-arrivals"],
+    "stock": 298,
+    "rating": 4.7,
+    "reviewsCount": 11234,
+    "tags": ["productivity", "focus", "career", "self-help"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Hardcover", "Paperback", "eBook", "Audiobook"]
+    },
+    "badge": null,
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Grand Central Publishing",
+    "sku": "BK-DEEPWRK-PB"
+  },
+  {
+    "id": "prod_030",
+    "slug": "the-art-of-possibility",
+    "name": "The Art of Possibility",
+    "shortName": "Art of Possibility",
+    "description": "A profound guide to discovering possibility in both personal and professional life. Written by world-renowned conductor Benjamin Zander and leadership expert Rosamund Stone Zander.",
+    "features": ["Paperback", "256 Pages", "Updated Edition", "Reading Group Guide", "New Preface"],
+    "price": 19.99,
+    "salePrice": 14.99,
+    "images": [
+      "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=800&q=80"
+    ],
+    "category": "books",
+    "collection": ["sale", "gift-ideas"],
+    "stock": 178,
+    "rating": 4.8,
+    "reviewsCount": 4523,
+    "tags": ["leadership", "mindset", "inspiration", "music"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Paperback", "eBook", "Audiobook"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Penguin Books",
+    "sku": "BK-ARTPOS-PB"
+  },
+  {
+    "id": "prod_031",
+    "slug": "artisan-oak-desk",
+    "name": "Solid Oak Writing Desk",
+    "shortName": "Oak Writing Desk",
+    "description": "Handcrafted from sustainably sourced solid white oak, this writing desk features hand-cut dovetail joints, a leather insert writing surface, and hairpin steel legs. A workspace investment.",
+    "features": ["Solid White Oak", "Leather Writing Surface", "Hand-Cut Dovetails", "Hairpin Steel Legs", "Sustainably Sourced"],
+    "price": 1299.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=800&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["premium-picks"],
+    "stock": 6,
+    "rating": 4.9,
+    "reviewsCount": 187,
+    "tags": ["desk", "oak", "handcrafted", "workspace"],
+    "variants": {
+      "colors": [
+        { "name": "Natural Oak", "value": "#c8a96e" },
+        { "name": "Walnut Stain", "value": "#5c3d2e" }
+      ],
+      "sizes": ["120cm x 60cm", "150cm x 70cm", "180cm x 80cm"]
+    },
+    "badge": "Premium",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Nexus Living",
+    "sku": "NL-OAKDESK-NAT-150"
+  },
+  {
+    "id": "prod_032",
+    "slug": "handblown-glass-pendant",
+    "name": "Handblown Glass Pendant Light",
+    "shortName": "Glass Pendant Light",
+    "description": "Each pendant is individually handblown by artisan glassmakers in Copenhagen. The irregular, organic form creates beautiful light patterns and ensures no two pieces are identical.",
+    "features": ["Handblown Glass", "E27 Bulb", "3m Adjustable Cord", "Brass Fitting", "Unique per Piece"],
+    "price": 299.99,
+    "salePrice": 229.99,
+    "images": [
+      "https://images.unsplash.com/photo-1543393716-375f47996a77?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["sale", "trending"],
+    "stock": 34,
+    "rating": 4.8,
+    "reviewsCount": 345,
+    "tags": ["lighting", "pendant", "handblown", "artisan"],
+    "variants": {
+      "colors": [
+        { "name": "Smoke Gray", "value": "#6b7280" },
+        { "name": "Amber", "value": "#d97706" },
+        { "name": "Clear", "value": "#e5e7eb" },
+        { "name": "Sage Green", "value": "#6b7c6e" }
+      ],
+      "sizes": ["Small (15cm)", "Medium (20cm)", "Large (28cm)"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Living",
+    "sku": "NL-GLPEND-SMK-M"
+  },
+  {
+    "id": "prod_033",
+    "slug": "japanese-ceramic-vase-set",
+    "name": "Japanese Ceramic Vase Set (3)",
+    "shortName": "Ceramic Vase Set",
+    "description": "A set of three hand-thrown ceramic vases in complementary forms and glazes, inspired by Wabi-sabi aesthetics. Each piece celebrates imperfection and the beauty of natural materials.",
+    "features": ["Hand-Thrown Ceramic", "Set of 3", "Food Safe Glazes", "Made in Japan", "Gift Boxed"],
+    "price": 179.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?w=800&q=80",
+      "https://images.unsplash.com/photo-1612883700628-a4e4dcf6e97b?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["new-arrivals", "gift-ideas"],
+    "stock": 43,
+    "rating": 4.9,
+    "reviewsCount": 234,
+    "tags": ["vase", "ceramic", "japanese", "wabi-sabi"],
+    "variants": {
+      "colors": [
+        { "name": "Oatmeal & Stone", "value": "#d4c5a9" },
+        { "name": "Sage & Terracotta", "value": "#8fad88" },
+        { "name": "Navy & Cream", "value": "#1e3a5f" }
+      ],
+      "sizes": []
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": true,
+    "brand": "Nexus Living",
+    "sku": "NL-JCVASE-SET-OAT"
+  },
+  {
+    "id": "prod_034",
+    "slug": "linen-bed-set",
+    "name": "Stone-Washed Linen Bed Set",
+    "shortName": "Linen Bed Set",
+    "description": "Oeko-Tex certified French linen, stone-washed for immediate softness that only gets better with time. Includes duvet cover, two pillowcases, and a fitted sheet.",
+    "features": ["100% French Linen", "Oeko-Tex Certified", "Stone-Washed", "Includes 4 Pieces", "Machine Washable"],
+    "price": 389.99,
+    "salePrice": 299.99,
+    "images": [
+      "https://images.unsplash.com/photo-1618221469555-7f3ad97540d6?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["sale", "best-sellers"],
+    "stock": 67,
+    "rating": 4.8,
+    "reviewsCount": 1234,
+    "tags": ["bedding", "linen", "luxury", "bedroom"],
+    "variants": {
+      "colors": [
+        { "name": "Oatmeal", "value": "#d4c5a9" },
+        { "name": "Sage", "value": "#8fad88" },
+        { "name": "Midnight Blue", "value": "#1e3a5f" },
+        { "name": "Terracotta", "value": "#c2703a" },
+        { "name": "White", "value": "#fafafa" }
+      ],
+      "sizes": ["Single", "Double", "King", "Super King"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Nexus Living",
+    "sku": "NL-LINBED-OAT-KNG"
+  },
+  {
+    "id": "prod_035",
+    "slug": "walnut-coffee-table",
+    "name": "Live Edge Walnut Coffee Table",
+    "shortName": "Walnut Coffee Table",
+    "description": "A statement piece for any living room. This coffee table features a single slab of live-edge American black walnut on a powder-coated steel base. No two pieces are identical.",
+    "features": ["Live Edge Walnut Slab", "Natural Edge Preserved", "Powder-Coated Steel Base", "Hand-Finished Oil", "Unique per Piece"],
+    "price": 1899.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["premium-picks"],
+    "stock": 4,
+    "rating": 5.0,
+    "reviewsCount": 89,
+    "tags": ["coffee-table", "walnut", "live-edge", "premium"],
+    "variants": {
+      "colors": [
+        { "name": "Black Steel Base", "value": "#111111" },
+        { "name": "Gold Steel Base", "value": "#d4a017" }
+      ],
+      "sizes": ["100cm x 50cm", "120cm x 60cm", "140cm x 70cm"]
+    },
+    "badge": "Premium",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Living",
+    "sku": "NL-LIVWAL-CT-BLK-120"
+  },
+  {
+    "id": "prod_036",
+    "slug": "scented-candle-collection",
+    "name": "Luxury Scented Candle — Set of 3",
+    "shortName": "Luxury Candle Set",
+    "description": "Hand-poured using a coconut-soy wax blend, these large-format candles burn for 80+ hours. Fragranced with fine perfumery materials — no synthetic shortcuts.",
+    "features": ["Coconut-Soy Blend", "80+ Hour Burn", "Fine Fragrance Oils", "Cotton Wick", "Apothecary Glass Jar"],
+    "price": 129.99,
+    "salePrice": 99.99,
+    "images": [
+      "https://images.unsplash.com/photo-1602607601898-2b2b3e0ce37a?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["sale", "gift-ideas"],
+    "stock": 156,
+    "rating": 4.7,
+    "reviewsCount": 892,
+    "tags": ["candle", "scented", "gift", "home"],
+    "variants": {
+      "colors": [],
+      "sizes": ["Signature Collection", "Seasonal Collection", "Botanical Collection"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Living",
+    "sku": "NL-SCNDLE-SET-SIG"
+  },
+  {
+    "id": "prod_037",
+    "slug": "merino-throw-blanket",
+    "name": "Merino Wool Throw Blanket",
+    "shortName": "Merino Throw",
+    "description": "Extra-fine Merino wool woven into a generous 130x200cm throw. The open weave and tonal plaid pattern works with any interior aesthetic — a timeless textile investment.",
+    "features": ["Extra-Fine Merino", "130x200cm", "Tonal Plaid Weave", "Dry Clean Only", "Made in Italy"],
+    "price": 299.99,
+    "salePrice": 239.99,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["sale", "new-arrivals"],
+    "stock": 45,
+    "rating": 4.8,
+    "reviewsCount": 456,
+    "tags": ["throw", "merino", "blanket", "cozy"],
+    "variants": {
+      "colors": [
+        { "name": "Ivory & Camel", "value": "#f5f0e8" },
+        { "name": "Grey & Charcoal", "value": "#9ca3af" },
+        { "name": "Navy & Stone", "value": "#1e3a5f" },
+        { "name": "Rust & Sand", "value": "#c2703a" }
+      ],
+      "sizes": []
+    },
+    "badge": "Sale",
+    "isNew": true,
+    "isFeatured": false,
+    "brand": "Nexus Living",
+    "sku": "NL-MRTHROW-IVY"
+  },
+  {
+    "id": "prod_038",
+    "slug": "modular-shelving-unit",
+    "name": "Modular Oak Shelving Unit",
+    "shortName": "Oak Shelving Unit",
+    "description": "The ultimate modular shelving system in solid oak and powder-coated steel. Infinitely configurable and built to last a lifetime. Add modules as your collection grows.",
+    "features": ["Solid Oak Shelves", "Steel Frame", "Modular Design", "Wall-Mounted", "Add-On Modules Available"],
+    "price": 799.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["premium-picks"],
+    "stock": 12,
+    "rating": 4.7,
+    "reviewsCount": 234,
+    "tags": ["shelving", "oak", "modular", "storage"],
+    "variants": {
+      "colors": [
+        { "name": "Oak / Black Steel", "value": "#c8a96e" },
+        { "name": "Oak / White Steel", "value": "#f9fafb" }
+      ],
+      "sizes": ["3 Shelf", "5 Shelf", "7 Shelf"]
+    },
+    "badge": "Premium",
+    "isNew": false,
+    "isFeatured": false,
+    "brand": "Nexus Living",
+    "sku": "NL-MODSHLV-OAK-5"
+  },
+  {
+    "id": "prod_039",
+    "slug": "abstract-art-print",
+    "name": "Abstract Art Print — Limited Edition",
+    "shortName": "Abstract Art Print",
+    "description": "A limited edition of 250, hand-signed and numbered by Brooklyn-based artist Mia Chen. Giclée printed on 310gsm cotton rag archival paper with a matte UV-resistant finish.",
+    "features": ["Limited Edition 250", "Hand-Signed", "Giclée Print", "310gsm Cotton Rag", "Archival Ink"],
+    "price": 399.99,
+    "salePrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["new-arrivals", "premium-picks"],
+    "stock": 43,
+    "rating": 4.9,
+    "reviewsCount": 123,
+    "tags": ["art", "print", "limited-edition", "decor"],
+    "variants": {
+      "colors": [],
+      "sizes": ["30cm x 40cm (Unframed)", "40cm x 60cm (Unframed)", "50cm x 70cm (Framed)"]
+    },
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": false,
+    "brand": "Nexus Gallery",
+    "sku": "NG-ABSPRINT-40X60"
+  },
+  {
+    "id": "prod_040",
+    "slug": "cast-iron-dutch-oven",
+    "name": "Enameled Cast Iron Dutch Oven",
+    "shortName": "Cast Iron Dutch Oven",
+    "description": "The kitchen essential that never goes out of style. This 5.5-quart enameled cast iron Dutch oven retains heat evenly, works on all stovetops, and transitions beautifully from oven to table.",
+    "features": ["Enameled Cast Iron", "5.5 Quart", "Oven Safe to 260°C", "All Stovetops", "Dishwasher Safe"],
+    "price": 299.99,
+    "salePrice": 249.99,
+    "images": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&q=80"
+    ],
+    "category": "home-decor",
+    "collection": ["sale", "best-sellers", "gift-ideas"],
+    "stock": 78,
+    "rating": 4.9,
+    "reviewsCount": 3456,
+    "tags": ["cookware", "dutch-oven", "kitchen", "cast-iron"],
+    "variants": {
+      "colors": [
+        { "name": "Flame Orange", "value": "#ea580c" },
+        { "name": "Midnight Blue", "value": "#1e3a5f" },
+        { "name": "Marseille Yellow", "value": "#eab308" },
+        { "name": "Volcanic Black", "value": "#1a1a1a" },
+        { "name": "Oyster White", "value": "#f5f0e8" }
+      ],
+      "sizes": ["3.5 Quart", "5.5 Quart", "7.25 Quart"]
+    },
+    "badge": "Sale",
+    "isNew": false,
+    "isFeatured": true,
+    "brand": "Nexus Kitchen",
+    "sku": "NK-CIOVEN-55-FLM"
+  }
+]
