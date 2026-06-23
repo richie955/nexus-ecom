@@ -12,6 +12,7 @@ import { CartDrawer } from "@/components/layout/cart-drawer";
 import { SearchDialog } from "@/components/layout/search-dialog";
 import { MobileNav } from "@/components/layout/mobile-nav";
 import { Toaster } from "@/components/ui/toaster";
+import { LayoutContent } from "@/components/layout/layout-content";
 
 export const metadata = {
   title: {
@@ -53,7 +54,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-screen flex flex-col bg-background text-foreground">
         <Providers>
           <Navbar />
-          <main className="flex-1 pb-16 md:pb-0">{children}</main>
+          <LayoutContent>{children}</LayoutContent>
           <Footer />
           <CartDrawer />
           <SearchDialog />

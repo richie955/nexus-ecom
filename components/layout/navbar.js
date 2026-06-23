@@ -2,7 +2,9 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { Menu, Search, ShoppingBag, User, Heart } from "lucide-react";
+
 import { Button } from "@/components/ui/button";
 import { useCart } from "@/context/cart-context";
 import { useWishlist } from "@/context/wishlist-context";
@@ -16,16 +18,23 @@ const links = [
 ];
 
 export function Navbar() {
+  const pathname = usePathname();
+
   const { itemCount } = useCart();
   const { count } = useWishlist();
   const { setCartOpen, setSearchOpen, setMobileMenuOpen } = useUI();
 
   const [scrolled, setScrolled] = useState(false);
 
+  const isHome = pathname === "/";
+  const transparentNavbar = isHome && !scrolled;
+
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 100);
     };
+
+    handleScroll();
 
     window.addEventListener("scroll", handleScroll);
 
@@ -34,10 +43,10 @@ export function Navbar() {
 
   return (
     <header
-      className={`fixed inset-x-0 top-0 z-50 border-b border-white/20 w-screen transition-all duration-500 ${
-        scrolled
-          ? " border-border bg-background/90 backdrop-blur-xl shadow-sm"
-          : "bg-transparent"
+      className={`fixed inset-x-0 top-0 z-50 w-screen transition-all duration-500 ${
+        transparentNavbar
+          ? "border-b border-white/20 bg-transparent"
+          : "border-b border-border bg-background/90 backdrop-blur-xl shadow-sm"
       }`}
     >
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
@@ -46,21 +55,23 @@ export function Navbar() {
           <Button
             variant="ghost"
             size="icon"
-            className={`md:hidden ${
-              scrolled
-                ? ""
-                : "text-white hover:bg-white/10 hover:text-white"
-            }`}
+            className={
+              transparentNavbar
+                ? "text-white hover:bg-white/10 hover:text-white"
+                : ""
+            }
             onClick={() => setMobileMenuOpen(true)}
             aria-label="Open menu"
           >
-            <Menu className="h-5 w-5" />
+            <Menu className="h-5 w-5 md:hidden" />
           </Button>
 
           <Link
             href="/"
             className={`flex items-center gap-2 font-semibold tracking-tight transition-colors ${
-              scrolled ? "text-foreground" : "text-white"
+              transparentNavbar
+                ? "text-white"
+                : "text-foreground"
             }`}
           >
             <span>Nexus</span>
@@ -74,9 +85,9 @@ export function Navbar() {
               key={href}
               href={href}
               className={`text-sm font-medium transition-colors ${
-                scrolled
-                  ? "text-muted-foreground hover:text-foreground"
-                  : "text-white/90 hover:text-white"
+                transparentNavbar
+                  ? "text-white/90 hover:text-white"
+                  : "text-muted-foreground hover:text-foreground"
               }`}
             >
               {label}
@@ -90,9 +101,9 @@ export function Navbar() {
             variant="ghost"
             size="icon"
             className={
-              scrolled
-                ? ""
-                : "text-white hover:bg-white/10 hover:text-white"
+              transparentNavbar
+                ? "text-white hover:bg-white/10 hover:text-white"
+                : ""
             }
             onClick={() => setSearchOpen(true)}
             aria-label="Open search"
@@ -103,13 +114,14 @@ export function Navbar() {
           <Link
             href="/account/wishlist"
             className={`relative hidden h-9 w-9 place-items-center rounded-lg md:grid transition-colors ${
-              scrolled
-                ? "hover:bg-secondary"
-                : "text-white hover:bg-white/10"
+              transparentNavbar
+                ? "text-white hover:bg-white/10"
+                : "hover:bg-secondary"
             }`}
             aria-label="Wishlist"
           >
             <Heart className="h-5 w-5" />
+
             {count > 0 && (
               <span className="absolute -right-1 -top-1 grid h-5 min-w-5 place-items-center rounded-full bg-foreground px-1 text-[10px] font-semibold text-background">
                 {count}
@@ -120,9 +132,9 @@ export function Navbar() {
           <Link
             href="/account"
             className={`hidden h-9 w-9 place-items-center rounded-lg md:grid transition-colors ${
-              scrolled
-                ? "hover:bg-secondary"
-                : "text-white hover:bg-white/10"
+              transparentNavbar
+                ? "text-white hover:bg-white/10"
+                : "hover:bg-secondary"
             }`}
             aria-label="Account"
           >
@@ -133,14 +145,15 @@ export function Navbar() {
             variant="ghost"
             size="icon"
             className={`relative ${
-              scrolled
-                ? ""
-                : "text-white hover:bg-white/10 hover:text-white"
+              transparentNavbar
+                ? "text-white hover:bg-white/10 hover:text-white"
+                : ""
             }`}
             onClick={() => setCartOpen(true)}
             aria-label="Open cart"
           >
             <ShoppingBag className="h-5 w-5" />
+
             {itemCount > 0 && (
               <span className="absolute -right-1 -top-1 grid h-5 min-w-5 place-items-center rounded-full bg-foreground px-1 text-[10px] font-semibold text-background">
                 {itemCount}

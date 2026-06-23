@@ -38,7 +38,7 @@ export function HeroCarousel({ products }) {
   if (!product) return null;
 
   return (
-    <section className="relative h-[90vh] sm:h-screen overflow-hidden bg-black text-white">
+    <section className="relative h-[86vh] sm:h-screen overflow-hidden bg-black text-white">
       {/* Background Images */}
       {slides.map((slide, index) => (
         <img
