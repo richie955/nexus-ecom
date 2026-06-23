@@ -38,7 +38,7 @@ export function HeroCarousel({ products }) {
   if (!product) return null;
 
   return (
-    <section className="relative h-[93vh] sm:h-screen overflow-hidden bg-black text-white">
+    <section className="relative h-[90vh] sm:h-screen overflow-hidden bg-black text-white">
       {/* Background Images */}
       {slides.map((slide, index) => (
         <img
@@ -69,7 +69,7 @@ export function HeroCarousel({ products }) {
               {product.brand}
             </p>
 
-            <h1 className="mt-4 text-3xl font-semibold leading-[0.95] tracking-tight md:text-4xl lg:text-[3.25rem]">
+            <h1 className="mt-4 text-4xl font-semibold leading-[0.95] tracking-tight md:text-4xl lg:text-[3.25rem]">
               Curated products.
               <br />
               Confident checkout.
