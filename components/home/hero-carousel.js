@@ -38,7 +38,7 @@ export function HeroCarousel({ products }) {
   if (!product) return null;
 
   return (
-    <section className="relative h-[85vh] md:h-[93vh] overflow-hidden bg-black text-white">
+    <section className="relative h-[93vh] sm:h-screen overflow-hidden bg-black text-white">
       {/* Background Images */}
       {slides.map((slide, index) => (
         <img
@@ -84,7 +84,7 @@ export function HeroCarousel({ products }) {
         </div>
 
         {/* Bottom Area */}
-        <div className="grid gap-6 border-t md:mb-15 border-white/10 pt-6 md:grid-cols-[400px_1fr] md:items-center">
+        <div className="grid gap-6  md:mb-15 pt-6 md:grid-cols-[400px_1fr] md:items-center">
           {/* Product Card */}
           <Link
             href={`/product/${product.slug}`}
@@ -93,10 +93,7 @@ export function HeroCarousel({ products }) {
               flex
               gap-4
               rounded-2xl
-              bg-white/10
               p-4
-              backdrop-blur-xl
-              ring-1
               ring-white/10
               transition-all
               duration-300
@@ -107,8 +104,8 @@ export function HeroCarousel({ products }) {
               src={product.images[0]}
               alt={product.name}
               className="
-                h-24
-                w-24
+                h-28
+                w-28
                 shrink-0
                 rounded-xl
                 object-cover
